@@ -1,0 +1,61 @@
+.home_main_container {
+
+    /* border: 3px solid black;
+    border-radius: 10px; */
+    height: 100%;
+    background-color: blue;
+    color: black;
+    font-size: 40px;
+    margin: 40px;
+   
+
+}
+
+.card_container {
+    height: 800px;
+    background-color: white;
+    margin: 80px;
+    background-image:url(https://comsalamanca.es/imagenes/noticia/g/4633/420732-coronavirusmedicos.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size:cover;
+    color: white;
+    display:flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+  
+
+   
+    
+
+}
+
+.card_container > h1 {
+
+    padding: 50px;
+    margin: 50px;
+}
+
+.button_medic> button {
+
+    border-radius: 40px solid black;
+    font-size: 40px;
+    background-color: red;
+    /* align-items: center;
+    justify-content: center;
+    display: flex;
+    flex-direction: row; */
+    
+    
+   
+   
+    
+   
+}
+
+.button_medic >button:hover{
+    cursor: pointer;
+    background-color: white;
+} 

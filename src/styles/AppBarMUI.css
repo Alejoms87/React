@@ -1,0 +1,10 @@
+.links_router {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    text-decoration: none;
+    color: #212121;
+    cursor: pointer;
+    
+}
